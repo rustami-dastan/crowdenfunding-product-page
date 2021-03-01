@@ -242,6 +242,8 @@ body{
     margin-left: 8px;
     line-height: 18px;
     color: #7A7A7A;
+    position: relative;
+    top: -5px;
     
 }
 .footer-button{
@@ -325,9 +327,11 @@ body{
     margin-left: 8px;
     line-height: 18px;
     color: #dddddd;
+    position: relative;
+    top: -5px;
 }
 .pledge-mohogany{
-    color: #a9deda;
+    color: #a9deda  
 }
 .mohogany-footer-button{
     padding: 15px 38px;
